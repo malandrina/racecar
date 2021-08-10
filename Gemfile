@@ -4,5 +4,3 @@ source 'https://rubygems.org'
 
 # Specify your gem's dependencies in racecar.gemspec
 gemspec
-
-gem "rdkafka", path: "../rdkafka-ruby"
